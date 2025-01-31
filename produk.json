@@ -1,0 +1,64 @@
+{
+    "products": [
+      {
+            "produk": "am premium",
+            "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+            "kategori": {
+                "1 TAHUN": "5.000",
+                "1 BULAN": "5.000",
+                "1 MINGGU" : "5.000"
+            },
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alight_Motion_Logo.svg/2560px-Alight_Motion_Logo.svg.png"
+        },
+          {
+            "produk": "spotify premium",
+            "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+            "kategori": {
+                "1 TAHUN": "10.000",
+                "1 BULAN": "10.000",
+                "1 MINGGU" : "10.000"
+            },
+           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spotify_logo_2023.svg/2560px-Spotify_logo_2023.svg.png"
+        },
+        {
+             "produk": "spotify premium",
+              "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+              "kategori": {
+                "1 TAHUN": "10.000",
+                "1 BULAN": "10.000",
+                  "1 MINGGU" : "10.000"
+            },
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spotify_logo_2023.svg/2560px-Spotify_logo_2023.svg.png"
+        },
+        {
+             "produk": "spotify premium",
+              "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+              "kategori": {
+                "1 TAHUN": "10.000",
+                "1 BULAN": "10.000",
+                  "1 MINGGU" : "10.000"
+            },
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spotify_logo_2023.svg/2560px-Spotify_logo_2023.svg.png"
+        },
+           {
+             "produk": "spotify premium",
+              "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+              "kategori": {
+                "1 TAHUN": "10.000",
+                "1 BULAN": "10.000",
+                  "1 MINGGU" : "10.000"
+            },
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spotify_logo_2023.svg/2560px-Spotify_logo_2023.svg.png"
+        },
+        {
+              "produk": "spotify premium",
+              "deskripsi": "contohnya deskripsi. jika deskripsi panjang maka bisa di scroll",
+              "kategori": {
+                "1 TAHUN": "10.000",
+                "1 BULAN": "10.000",
+                "1 MINGGU" : "10.000"
+              },
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spotify_logo_2023.svg/2560px-Spotify_logo_2023.svg.png"
+         }
+    ]
+}
